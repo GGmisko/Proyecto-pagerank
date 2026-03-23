@@ -144,9 +144,9 @@ El algoritmo PageRank modela la navegación en la web como una **cadena de Marko
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-* Juan David Aarón Parra
+* Juan David Aarón Parra, Jose Esteban Robayo y Eugenio Vega
 * Proyecto académico – Pontificia Universidad Javeriana
 
 ---
