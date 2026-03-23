@@ -6,7 +6,7 @@ Este proyecto implementa el algoritmo **PageRank**, una técnica fundamental par
 
 La implementación busca evaluar si un ranking basado en la **estructura del grafo** puede mejorar la clasificación tradicional basada únicamente en la cantidad de enlaces, introduciendo un enfoque que prioriza la **calidad de las referencias**.
 
-En la era de la información, donde el acceso eficiente a datos es crucial, PageRank surge como una solución robusta para la organización y búsqueda de información. Basado en **cadenas de Markov**, este algoritmo estima la relevancia de un nodo considerando la probabilidad de الوصول a él a través de enlaces.
+En la era de la información, donde el acceso eficiente a datos es crucial, PageRank surge como una solución robusta para la organización y búsqueda de información. Basado en **cadenas de Markov**, este algoritmo estima la relevancia de un nodo considerando la probabilidad de referencia a él a través de enlaces.
 
 Este proyecto fue desarrollado en el contexto de la materia **Diseño de Sistemas con Procesadores**, explorando la aplicación práctica de este algoritmo en C.
 
